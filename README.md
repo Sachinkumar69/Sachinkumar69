@@ -5,6 +5,8 @@
 - 🥅 2022 Goals: Explore the more and more about Data Analytics, Business Analytics,Power Bi Dashboards etc.
 - ⚡ Fun fact: I love to learn New Technologies.
 
+"If you torture the data long enough it will confess to anything."- Ronald Coase(Nobel Prize)
+
 Thanks for visiting my profile.
 
 <!---
